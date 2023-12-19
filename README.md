@@ -4,6 +4,7 @@ I'm Rishabh and I'm a Web Pentester and a Data Analyst. I'm currently working on
 You can reach out to me if you wish to learn networking and bug hunting.
 
 Languages that I have used during my project journey are:
+
 *Python
 
 *SQL
@@ -11,7 +12,6 @@ Languages that I have used during my project journey are:
 *PHP
 
 *HTML
-
 
 All of my projects are available at: https://github.com/rishi1500
 
