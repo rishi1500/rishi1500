@@ -1,8 +1,6 @@
 # Rishabh Chugh's Coding Odyssey 🚀
 
 ## Ahoy! 👋 Welcome to My Digital Realm!    
-   ![laptop-820285_640](https://github.com/rishi1500/rishi1500/assets/95222081/73740d4d-9e7d-4e51-9c8c-42bea7b4625b)
-
 
 Greetings, fellow explorer of the digital frontier! I'm Rishabh, your friendly Web Pentester and Data Analyst on a perpetual quest for knowledge and mastery. 🌐✨
 
