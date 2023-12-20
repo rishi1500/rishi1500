@@ -1,6 +1,7 @@
 # Rishabh Chugh's Coding Odyssey 🚀
 
-## Ahoy! 👋 Welcome to My Digital Realm!
+## Ahoy! 👋 Welcome to My Digital Realm!    ![robot_umbrella_4k_hd_creative](https://github.com/rishi1500/rishi1500/assets/95222081/09206078-eb91-47e2-9a15-6271cb08339e)
+
 
 Greetings, fellow explorer of the digital frontier! I'm Rishabh, your friendly Web Pentester and Data Analyst on a perpetual quest for knowledge and mastery. 🌐✨
 
